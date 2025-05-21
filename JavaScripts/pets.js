@@ -1,0 +1,22 @@
+const pets = [
+  { id: 1, type: "Dog", name: "Buddy", age: 4, breed: "Golden Retriever", gender: "Male", features: ["Friendly", "Loyal", "Active"], image: "images/Pets/Buddy.jpg" },
+  { id: 2, type: "Cat", name: "Whiskers", age: 3, breed: "Siamese", gender: "Male", features: ["Playful", "Curious", "Loves to climb"], image: "images/Pets/Whiskers.jpg" },
+  { id: 3, type: "Dog", name: "Rocky", age: 2, breed: "Bulldog", gender: "Male", features: ["Strong", "Protective", "Affectionate"], image: "images/Pets/Rocky.jpg" },
+  { id: 4, type: "Dog", name: "Luna", age: 5, breed: "Border Collie", gender: "Female", features: ["Intelligent", "Energetic", "Obedient"], image: "images/Pets/Luna.jpg" },
+  { id: 5, type: "Cat", name: "Mittens", age: 1, breed: "Persian", gender: "Female", features: ["Fluffy", "Relaxed", "Affectionate"], image: "images/Pets/Mittens.jpg" },
+  { id: 6, type: "Dog", name: "Max", age: 3, breed: "Beagle", gender: "Male", features: ["Curious", "Friendly", "Energetic"], image: "images/Pets/Max.jpg" },
+  { id: 7, type: "Dog", name: "Daisy", age: 6, breed: "Poodle", gender: "Female", features: ["Elegant", "Smart", "Playful"], image: "images/Pets/Daisy.jpg" },
+  { id: 8, type: "Cat", name: "Shadow", age: 2, breed: "Russian Blue", gender: "Female", features: ["Quiet", "Loyal", "Mysterious"], image: "images/Pets/Shadow.jpg" },
+  { id: 9, type: "Fish", name: "Bubbles", age: 1, breed: "Goldfish", gender: "", features: ["Colorful", "Peaceful", "Swims fast"], image: "images/Pets/Bubbles.jpg" },
+  { id: 10, type: "Bird", name: "Tweety", age: 2, breed: "Canary", gender: "Female", features: ["Sings", "Energetic", "Bright yellow"], image: "images/Pets/Tweety.jpg" },
+  { id: 11, type: "Bird", name: "Rio", age: 4, breed: "Parrot", gender: "Male", features: ["Talkative", "Social", "Smart"], image: "images/Pets/Rio.jpg" },
+  { id: 12, type: "Dog", name: "Charlie", age: 7, breed: "Labrador", gender: "Male", features: ["Friendly", "Gentle", "Great with kids"], image: "images/Pets/Charlie.jpg" },
+  { id: 13, type: "Dog", name: "Finn", age: 3, breed: "Husky", gender: "Male", features: ["Energetic", "Strong", "Loves snow"], image: "images/Pets/Finn.jpg" },
+  { id: 14, type: "Cat", name: "Simba", age: 4, breed: "Maine Coon", gender: "Male", features: ["Big", "Fluffy", "Calm"], image: "images/Pets/Simba.jpg" },
+  { id: 15, type: "Dog", name: "Oscar", age: 2, breed: "Doberman", gender: "Male", features: ["Athletic", "Protective", "Loyal"], image: "images/Pets/Oscar.jpg" },
+  { id: 16, type: "Cat", name: "Leo", age: 5, breed: "Bengal", gender: "Male", features: ["Active", "Spotted coat", "Adventurous"], image: "images/Pets/Leo.jpg" },
+  { id: 17, type: "Dog", name: "Bella", age: 1, breed: "Dalmatian", gender: "Female", features: ["Spotted coat", "Energetic", "Playful"], image: "images/Pets/Bella.jpg" },
+  { id: 18, type: "Cat", name: "Loki", age: 3, breed: "British Shorthair", gender: "Male", features: ["Chubby cheeks", "Calm", "Loves naps"], image: "images/Pets/Loki.jpg" },
+  { id: 19, type: "Dog", name: "Rex", age: 6, breed: "German Shepherd", gender: "Male", features: ["Intelligent", "Protective", "Strong"], image: "images/Pets/Rex.jpg" },
+  { id: 20, type: "Cat", name: "Cleo", age: 2, breed: "Ragdoll", gender: "Male", features: ["Soft fur", "Relaxed", "Loves cuddles"], image: "images/Pets/Cleo.jpg" }
+];
